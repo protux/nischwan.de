@@ -1,0 +1,4 @@
+baseURL = "https://nischwan.de"
+languageCode = "en-us"
+title = "Nico Schwanebeck"
+theme = "academic"
